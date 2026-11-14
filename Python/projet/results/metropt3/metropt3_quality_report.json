@@ -1,0 +1,37 @@
+{
+  "rows_read": 1516948,
+  "rows_bad_timestamp": 0,
+  "non_monotonic_steps": 0,
+  "adjacent_duplicate_timestamps": 0,
+  "invalid_or_missing": {
+    "TP2": 0,
+    "TP3": 0,
+    "H1": 0,
+    "DV_pressure": 0,
+    "Reservoirs": 0,
+    "Oil_temperature": 0,
+    "Motor_current": 0,
+    "COMP": 0,
+    "DV_eletric": 0,
+    "Towers": 0,
+    "MPG": 0,
+    "LPS": 0,
+    "Pressure_switch": 0,
+    "Oil_level": 0,
+    "Caudal_impulses": 0
+  },
+  "binary_out_of_domain": {
+    "COMP": 0,
+    "DV_eletric": 0,
+    "Towers": 0,
+    "MPG": 0,
+    "LPS": 0,
+    "Pressure_switch": 0,
+    "Oil_level": 0,
+    "Caudal_impulses": 0
+  },
+  "timestamp_format": "%Y-%m-%d %H:%M:%S",
+  "first_timestamp": "2020-02-01 00:00:00",
+  "last_timestamp": "2020-09-01 03:59:50",
+  "windows": 50782
+}
