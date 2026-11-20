@@ -1,0 +1,25 @@
+{
+  "file": "vi-1363392000_236972.flac",
+  "sample_rate": 16000,
+  "window_size": 16000,
+  "blocksize": 160000,
+  "max_seconds": null,
+  "total_samples": 57593173,
+  "windows": 3600,
+  "incomplete_windows": 1,
+  "last_window_samples": 9173,
+  "channel_mapping": {
+    "voltage": 0,
+    "current": 1
+  },
+  "global_u_rms_v": 243.29226102433284,
+  "global_i_rms_a": 1.061288060562354,
+  "mapping_plausible": true,
+  "calibration": {
+    "volts_per_adc_step": 1.90101491444e-07,
+    "phase_difference": -2.92555759986,
+    "amps_per_adc_step": 4.9224284384e-08
+  },
+  "phase_difference_applied": false,
+  "start_unix_from_name": 1363392000
+}
